@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Apaixonado por tecnologia, busca expandir seus conhecimentos e habilidades nessa área.
+Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Apaixonado por tecnologia, busca expandir seus conhecimentos e habilidades nessa área.
 
 <p align="left">
     </a> 
