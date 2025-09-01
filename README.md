@@ -5,7 +5,6 @@
 Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Apaixonado por tecnologia, busca expandir seus conhecimentos e habilidades nessa área.
 
 <p align="left">
-    </a> 
     <a href="https://github.com/GuilhermeRodrigues7?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -22,11 +21,13 @@ Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Anál
     </a>
 </p>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -35,7 +36,7 @@ Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Anál
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -43,7 +44,7 @@ Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Anál
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -51,14 +52,24 @@ Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Anál
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -71,12 +82,11 @@ Natural de São Paulo, concluiu o ensino médio. Atualmente está cursando Anál
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeRodrigues7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRodrigues7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRodrigues7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
----
+
